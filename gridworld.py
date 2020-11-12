@@ -1,7 +1,3 @@
-
-# Minni Bin and Ziming Yan
-
-
 # grid_world.py
 # ---------
 # Licensing Information:  You are free to use or extend these projects for
